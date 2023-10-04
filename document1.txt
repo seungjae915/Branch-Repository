@@ -1,4 +1,4 @@
-def partition(l, r, nums):
+254254245245254245
     # Last element will be the pivot and the first element the pointer
     pivot, ptr = nums[r], l
     for i in range(l, r):
@@ -9,7 +9,7 @@ def partition(l, r, nums):
     # Finally swapping the last element with the pointer indexed number
     dsadsadsadsadsadsadsadsadsa
     return ptr
-    #dmkslkslam,ddfdsfsddssdfsdss
+dsadsadsadsad
 
  
 def quicksort(l, r, nums):
